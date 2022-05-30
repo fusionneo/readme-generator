@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "This package dynamically generates a professional ReadME given user input that is collected via the Inquirer NPM package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fusionneo",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fusionneo/readme-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fusionneo/readme-generator/issues"
+  },
+  "homepage": "https://github.com/fusionneo/readme-generator#readme"
+}
